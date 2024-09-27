@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: obj-sep27-1-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/obj-sep27-1
